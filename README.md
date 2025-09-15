@@ -1,8 +1,8 @@
 <!-- Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner-dark.svg" />
-  <img src="https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner.svg" alt="Benjamin Bannach – Fachinformatiker AE (Umschulung)" width="100%" />
-</picture>
+<!-- Light- und Dark-Mode Banner -->
+![Benjamin Bannach – Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner.svg#gh-light-mode-only)
+![Benjamin Bannach – Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner-dark.svg#gh-dark-mode-only)
+
 <h1 align="center">Benjamin Bannach</h1>
 <p align="center">
   Fachinformatiker für Anwendungsentwicklung (Umschulung · 02/2025–02/2027) · Duisburg<br/>
