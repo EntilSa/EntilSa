@@ -1,6 +1,7 @@
-<!-- Banner -->
-![Banner hell](assets/banner.svg#gh-light-mode-only)
-![Banner dunkel](assets/banner-dark.svg#gh-dark-mode-only)
+<!-- Banner oben -->
+![Benjamin Bannach – Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner.svg#gh-light-mode-only)
+![Benjamin Bannach – Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner-dark.svg#gh-dark-mode-only)
+
 
 <h1 align="center">Benjamin Bannach</h1>
 <p align="center">
