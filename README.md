@@ -1,7 +1,6 @@
 <!-- Banner oben -->
 ![Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner.png#gh-light-mode-only)
 ![Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner-dark.png#gh-dark-mode-only)
-<h1 align="center">Benjamin Bannach</h1>
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
