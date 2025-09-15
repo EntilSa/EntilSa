@@ -1,5 +1,6 @@
-<!-- Variante 1: Gradient Pulse -->
-![Banner Pulse (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_pulse.gif)
+<!-- Variante 4: Aurora -->
+![Banner Aurora](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_aurora.gif)
+
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
