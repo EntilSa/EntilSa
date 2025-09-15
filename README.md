@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
-  <a href="www.linkedin.com/in/benjamin-bannach-b52717362">🔗 LinkedIn</a> ·
+  <a href="http://www.linkedin.com/in/benjamin-bannach-b52717362">🔗 LinkedIn</a> ·
   <a href="mailto:benjamin.bannach.dev@gmail.com">✉️ Mail</a>
 </p>
 
