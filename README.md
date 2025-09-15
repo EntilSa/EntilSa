@@ -1,7 +1,7 @@
 <!-- Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-  <img src="./assets/banner.svg" alt="Benjamin Bannach – Fachinformatiker AE (Umschulung)" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner-dark.svg" />
+  <img src="https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner.svg" alt="Benjamin Bannach – Fachinformatiker AE (Umschulung)" width="100%" />
 </picture>
 <h1 align="center">Benjamin Bannach</h1>
 <p align="center">
