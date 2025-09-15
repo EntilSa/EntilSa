@@ -1,6 +1,5 @@
-<!-- Animierter GIF-Banner -->
-![Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave.gif#gh-light-mode-only)
-![Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave_dark.gif#gh-dark-mode-only)
+<!-- Variante 3: Particle Grid -->
+![Banner Grid (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_grid.gif)
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
