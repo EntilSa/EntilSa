@@ -1,5 +1,5 @@
-<!-- Variante 3: Particle Grid -->
-![Banner Grid (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_grid.gif)
+<!-- Variante 1: Gradient Pulse -->
+![Banner Pulse (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_pulse.gif)
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
