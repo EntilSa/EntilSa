@@ -7,19 +7,19 @@
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
-  <a href="LINKEDIN_URL">🔗 LinkedIn</a> ·
+  <a href="www.linkedin.com/in/benjamin-bannach-b52717362">🔗 LinkedIn</a> ·
   <a href="mailto:benjamin.bannach.dev@gmail.com">✉️ Mail</a>
 </p>
 
 ---
 
 ### Kurzprofil
-Ich baue mir als Umschüler eine solide Entwickler-Basis auf und liefere **kleine, saubere Beiträge**:
+Ich baue mir als Umschüler eine solide Entwickler-Basis auf und liefere kleine, saubere Beiträge:
 - HTML/CSS/JS: Accessibility/Performance-Quickwins, Micro-Interaktionen
 - C#: Konsolenapps, Datenverarbeitung, erste Tests (xUnit)
 - GitHub: klare Commits, kurze READMEs, kleine CI-Checks
 
-Ich suche ein **6-Monats-Praktikum** mit Perspektive auf **Übernahme als Junior Developer**.
+Ich suche ein 6-Monats-Praktikum mit Perspektive auf Übernahme als Junior Developer.
 
 ---
 
@@ -32,7 +32,6 @@ Ich suche ein **6-Monats-Praktikum** mit Perspektive auf **Übernahme als Junior
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img alt="Figma (Basic)" src="https://img.shields.io/badge/Figma-BE4AF7?logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -60,5 +59,4 @@ Ich suche ein **6-Monats-Praktikum** mit Perspektive auf **Übernahme als Junior
 
 ### Kontakt
 - 📧 benjamin.bannach.dev@gmail.com  
-- 📱 0170 4937301  
-- 🔗 LinkedIn: LINKEDIN_URL
+- 🔗 LinkedIn: www.linkedin.com/in/benjamin-bannach-b52717362
