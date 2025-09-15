@@ -1,6 +1,5 @@
-<!-- Variante 4: Aurora -->
-![Banner Aurora](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_aurora.gif)
-
+<!-- Animierter Banner -->
+![Banner](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave_dark.gif)
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
