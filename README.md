@@ -19,7 +19,7 @@ Ich baue mir als Umschüler eine solide Entwickler-Basis auf und liefere kleine,
 - C#: Konsolenapps, Datenverarbeitung, erste Tests (xUnit)
 - GitHub: klare Commits, kurze READMEs, kleine CI-Checks
 
-Ich suche ein 6-Monats-Praktikum mit Perspektive auf Übernahme als Junior Developer.
+Ich suche für den Zeitraum vom 11.05.2026 bis zum 06.11.2026 ein sechsmonatiges Praktikum mit der Perspektive auf eine Übernahme als Junior Developer.
 
 ---
 
