@@ -1,6 +1,6 @@
-<!-- Animierter Banner -->
-![Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave.svg#gh-light-mode-only)
-![Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave_dark.svg#gh-dark-mode-only)
+<!-- Animierter GIF-Banner -->
+![Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave.gif#gh-light-mode-only)
+![Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave_dark.gif#gh-dark-mode-only)
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
