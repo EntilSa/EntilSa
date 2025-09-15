@@ -1,6 +1,7 @@
-<!-- Banner oben -->
-![Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_v2.png#gh-light-mode-only)
-![Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner-dark_v2.png#gh-dark-mode-only)
+<!-- Animierter Banner -->
+![Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave.svg#gh-light-mode-only)
+![Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave_dark.svg#gh-dark-mode-only)
+
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
   <a href="http://www.linkedin.com/in/benjamin-bannach-b52717362">🔗 LinkedIn</a> ·
