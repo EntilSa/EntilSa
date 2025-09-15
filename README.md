@@ -2,10 +2,6 @@
 ![Banner (hell)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner.png#gh-light-mode-only)
 ![Banner (dunkel)](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner-dark.png#gh-dark-mode-only)
 <h1 align="center">Benjamin Bannach</h1>
-<p align="center">
-  Fachinformatiker für Anwendungsentwicklung (Umschulung · 02/2025–02/2027) · Duisburg<br/>
-  Pflichtpraktikum: <b>11.05.2026 – 06.11.2026</b> · Fokus: Web-Basics (HTML/CSS/JS) & C#-Grundlagen
-</p>
 
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
