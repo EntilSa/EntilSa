@@ -55,4 +55,4 @@ Ich suche für den Zeitraum vom 11.05.2026 bis zum 06.11.2026 ein sechsmonatiges
 ### Kontakt
 
 - 📧 benjamin.bannach.dev@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/benjamin-bannach-b52717362
+- 🔗 LinkedIn: www.linkedin.com/in/benjamin-bannach
