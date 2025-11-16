@@ -1,4 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/EntilSa/EntilSa/main/assets/banner_wave_dark.gif)
+
 <p align="center">
   <a href="https://github.com/EntilSa/portfolio">🌐 Portfolio-Repo</a> ·
   <a href="http://www.linkedin.com/in/benjamin-bannach-b52717362">🔗 LinkedIn</a> ·
@@ -8,9 +9,10 @@
 ---
 
 ### Kurzprofil
+
 Ich baue mir als Umschüler eine solide Entwickler-Basis auf und liefere kleine, saubere Beiträge:
 - HTML/CSS/JS: Accessibility/Performance-Quickwins, Micro-Interaktionen
-- C#: Konsolenapps, Datenverarbeitung, erste Tests (xUnit)
+- C#: Konsolenapps, Datenverarbeitung, Game-Modding mit BepInEx/Harmony
 - GitHub: klare Commits, kurze READMEs, kleine CI-Checks
 
 Ich suche für den Zeitraum vom 11.05.2026 bis zum 06.11.2026 ein sechsmonatiges Praktikum mit der Perspektive auf eine Übernahme als Junior Developer.
@@ -18,6 +20,7 @@ Ich suche für den Zeitraum vom 11.05.2026 bis zum 06.11.2026 ein sechsmonatiges
 ---
 
 ### Tech & Tools
+
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-EE4C2C?logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264DE4?logo=css3&logoColor=white" />
@@ -30,20 +33,18 @@ Ich suche für den Zeitraum vom 11.05.2026 bis zum 06.11.2026 ein sechsmonatiges
 
 ---
 
-### Aktuell in Arbeit
-- 📦 **C# Mini-Projekt** (Console + xUnit + CI) – Repo erscheint demnächst
-- 🎯 Kleine Web-Demos (A11y/Perf-Quickwins) in `portfolio`
+### Projekte
 
----
+- 🎮 **OutletTweaks** (C# Game Mod) – <a href="https://github.com/EntilSa/OutletTweaks">github.com/EntilSa/OutletTweaks</a><br/>
+  BepInEx-Mod für Returns Outlet Simulator mit Harmony-Patching, konfigurierbaren Gameplay-Tweaks und dokumentiertem Release-Prozess.
 
-### Ausgewählte Repos
-- 🔹 **Portfolio Website** – <a href="https://github.com/EntilSa/portfolio">github.com/EntilSa/portfolio</a><br/>
+- 🌐 **Portfolio Website** – <a href="https://github.com/EntilSa/portfolio">github.com/EntilSa/portfolio</a><br/>
   HTML/CSS/JS-Beispiele, QR-Links, kleine Interaktionen.
 
-<!-- Du kannst die beiden Karten unten drinlassen – oder auskommentieren, falls du sie nicht willst. -->
 ---
 
 ### GitHub-Überblick
+
 <p>
   <img height="150" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EntilSa&show_icons=true&hide_title=true&include_all_commits=true" />
   <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EntilSa&layout=compact&hide_title=true" />
@@ -52,5 +53,6 @@ Ich suche für den Zeitraum vom 11.05.2026 bis zum 06.11.2026 ein sechsmonatiges
 ---
 
 ### Kontakt
+
 - 📧 benjamin.bannach.dev@gmail.com  
 - 🔗 LinkedIn: www.linkedin.com/in/benjamin-bannach-b52717362
