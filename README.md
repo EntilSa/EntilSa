@@ -27,16 +27,16 @@ Ich baue mir Schritt für Schritt eine solide Dev-Basis auf – mit Fokus auf:
 
 - 🧱 **Brickshop Simulator** – Solo-Projekt (Unity/C#)  
   Shop-Management-Spiel rund um Sammel-Brick-Sets. Fokus auf **Wirtschaftssystem, Datenmodellierung, Planung & Architektur**.  
-  → Repo: <a href="https://github.com/EntilSa/brickshop-simulator">github.com/EntilSa/brickshop-simulator</a>  
-  → Öffentliche Planungsseite (Notion): Link im README des Repos
+  Repo: <a href="https://github.com/EntilSa/brickshop-simulator">github.com/EntilSa/brickshop-simulator</a>  
+  Öffentliche Planungsseite (Notion): Link im README des Repos
 
 - 🎮 **OutletTweaks** – C# Game Mod  
   BepInEx-Mod für *Returns Outlet Simulator* mit Harmony-Patching, konfigurierbaren Gameplay-Tweaks und dokumentiertem Release-Prozess.  
-  → <a href="https://github.com/EntilSa/OutletTweaks">github.com/EntilSa/OutletTweaks</a>
+  <a href="https://github.com/EntilSa/OutletTweaks">github.com/EntilSa/OutletTweaks</a>
 
 - 🌐 **Portfolio Website**  
   Kleine One-Pager-Portfolioseite mit HTML/CSS/JS, QR-Links und ein paar Spielereien.  
-  → <a href="https://github.com/EntilSa/portfolio">github.com/EntilSa/portfolio</a>
+  <a href="https://github.com/EntilSa/portfolio">github.com/EntilSa/portfolio</a>
 
 ---
 
@@ -77,4 +77,4 @@ Ich baue mir Schritt für Schritt eine solide Dev-Basis auf – mit Fokus auf:
 ## 📫 Kontakt
 
 - 📧 benjamin.bannach.dev@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/benjamin-bannach-b52717362
+- 🔗 LinkedIn: www.linkedin.com/in/benjamin-bannach
