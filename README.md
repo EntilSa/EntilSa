@@ -12,7 +12,7 @@
 Umschüler zum **Fachinformatiker Anwendungsentwicklung** (Abschluss 02/2027) mit Background in  
 **E-Commerce, Geschäftsführung und Prozessoptimierung**.
 
-Ich baue mir Schritt für Schritt eine solide Dev-Basis auf – mit Fokus auf:
+Ich baue mir Schritt für Schritt eine solide Dev Basis auf, mit Fokus auf:
 
 - **C# / Unity** – kleine Spiele, Prototypen, Modding
 - **Web** – HTML/CSS/JavaScript, kleine Tools & Micro-Interaktionen
@@ -57,10 +57,10 @@ Ich baue mir Schritt für Schritt eine solide Dev-Basis auf – mit Fokus auf:
 
 ## 💼 Was ich mitbringe
 
-- viele Jahre **Praxis aus der Selbstständigkeit & E-Commerce**  
+- viele Jahre **Praxis aus der Selbstständigkeit, Geschäftsführung & E-Commerce**  
   (Shop-Aufbau, Kennzahlen, Prozesse, Mitarbeiterführung)
 - strukturierte Arbeitsweise: Roadmaps, Backlogs, klare To-dos
-- Lernfokus: **sauberer Code, gute Doku, kleine inkrementelle Schritte**
+- Lernfokus: sauberer Code, gute Doku, kleine inkrementelle Schritte
 - hohe Motivation, mich als Junior-Entwickler langfristig zu etablieren
 
 ---
