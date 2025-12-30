@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 Hi, ich bin Benjamin
+##  Hi, ich bin Benjamin
 
 Umschüler zum **Fachinformatiker Anwendungsentwicklung** (Abschluss 02/2027) mit Background in  
 **E-Commerce, Geschäftsführung und Prozessoptimierung**.
@@ -23,7 +23,7 @@ Ich baue mir Schritt für Schritt eine solide Dev Basis auf, mit Fokus auf:
 
 ---
 
-## 🎮 Aktuelle Projekte
+##  Aktuelle Projekte
 
 - 🧱 **Brickshop Simulator** – Solo-Projekt (Unity/C#)  
   Shop-Management-Spiel rund um Sammel-Brick-Sets. Fokus auf **Wirtschaftssystem, Datenmodellierung, Planung & Architektur**.  
@@ -40,7 +40,7 @@ Ich baue mir Schritt für Schritt eine solide Dev Basis auf, mit Fokus auf:
 
 ---
 
-## 🧰 Tech & Tools
+##  Tech & Tools
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" />
@@ -55,7 +55,7 @@ Ich baue mir Schritt für Schritt eine solide Dev Basis auf, mit Fokus auf:
 
 ---
 
-## 💼 Was ich mitbringe
+##  Was ich mitbringe
 
 - viele Jahre **Praxis aus der Selbstständigkeit, Geschäftsführung & E-Commerce**  
   (Shop-Aufbau, Kennzahlen, Prozesse, Mitarbeiterführung)
@@ -65,7 +65,7 @@ Ich baue mir Schritt für Schritt eine solide Dev Basis auf, mit Fokus auf:
 
 ---
 
-## 📊 GitHub-Überblick
+##  GitHub-Überblick
 
 <p>
   <img height="150" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EntilSa&show_icons=true&hide_title=true&include_all_commits=true" />
@@ -74,7 +74,7 @@ Ich baue mir Schritt für Schritt eine solide Dev Basis auf, mit Fokus auf:
 
 ---
 
-## 📫 Kontakt
+##  Kontakt
 
 - 📧 benjamin.bannach.dev@gmail.com  
 - 🔗 LinkedIn: www.linkedin.com/in/benjamin-bannach
